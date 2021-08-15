@@ -7,4 +7,5 @@ derived in assignment 1. Particularly, analyze the controller performance in the
 which the linear controller is designed as well as in regions of the state space not covered by the linear
 controller.
 #### [Report_ACT_Bioreactor(5)_.pdf](https://github.com/MdSaifulIslamSajol/Choosing-a-Control-method-and-Design-of-Mamdani-Fuzzy-Controller-for-Nonlinear-System-using-MATLAB/blob/1afc5597700b1762ca38964af10091436901895f/Report_ACT_Bioreactor(5)_.pdf) is the detailed report of the project.
+#### [Presentation ACT Part 2 .pdf](https://github.com/MdSaifulIslamSajol/Choosing-a-Control-method-and-Design-of-Mamdani-Fuzzy-Controller-for-Nonlinear-System-using-MATLAB/blob/710986b7d6de8d39b947c212074038d7a15bc170/Presentation%20ACT%20Part%202%20.pdf) is a short presentation of this project.
 Other files belong to MATLAB project
